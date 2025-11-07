@@ -1,0 +1,20 @@
+payload:
+  - DOMAIN-SUFFIX,doubleclick.net
+  - DOMAIN-SUFFIX,googlesyndication.com
+  - DOMAIN-SUFFIX,googleadservices.com
+  - DOMAIN-SUFFIX,googleads.g.doubleclick.net
+  - DOMAIN-SUFFIX,moatads.com
+  - DOMAIN-SUFFIX,adnxs.com
+  - DOMAIN-SUFFIX,adsafeprotected.com
+  - DOMAIN-SUFFIX,advertising.com
+  - DOMAIN-SUFFIX,adcolony.com
+  - DOMAIN-SUFFIX,adroll.com
+  - DOMAIN-SUFFIX,adform.net
+  - DOMAIN-SUFFIX,adap.tv
+  - DOMAIN-SUFFIX,chartboost.com
+  - DOMAIN-SUFFIX,tapjoy.com
+  - DOMAIN-SUFFIX,inmobi.com
+  - DOMAIN-SUFFIX,appsflyer.com
+  - DOMAIN-SUFFIX,amazon-adsystem.com
+  - DOMAIN-SUFFIX,criteo.com
+  - DOMAIN-SUFFIX,criteo.net
