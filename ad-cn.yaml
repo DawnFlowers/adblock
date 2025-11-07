@@ -1,0 +1,37 @@
+payload:
+  # 腾讯广告
+  - DOMAIN-SUFFIX,gdt.qq.com
+  - DOMAIN-SUFFIX,adsmind.gdtimg.com
+  - DOMAIN-SUFFIX,adsmind.tc.qq.com
+  - DOMAIN-SUFFIX,pingma.qq.com
+
+  # 字节跳动广告
+  - DOMAIN-SUFFIX,pangolin.snssdk.com
+  - DOMAIN-SUFFIX,ad.zijieapi.com
+  - DOMAIN-SUFFIX,ad.bytedanceapi.com
+  - DOMAIN-SUFFIX,mon.snssdk.com
+
+  # 百度广告
+  - DOMAIN-SUFFIX,mobads.baidu.com
+  - DOMAIN-SUFFIX,cpro.baidu.com
+  - DOMAIN-SUFFIX,eclick.baidu.com
+  - DOMAIN-SUFFIX,afd.baidu.com
+
+  # 小米广告
+  - DOMAIN-SUFFIX,api.ad.xiaomi.com
+  - DOMAIN-SUFFIX,data.mistat.xiaomi.com
+  - DOMAIN-SUFFIX,tracking.miui.com
+
+  # 华为广告
+  - DOMAIN-SUFFIX,ads.huawei.com
+  - DOMAIN-SUFFIX,metrics.data.hicloud.com
+
+  # Oppo / Vivo 广告
+  - DOMAIN-SUFFIX,adx.ads.heytapmobi.com
+  - DOMAIN-SUFFIX,adsfsdkapi.heytapimage.com
+  - DOMAIN-SUFFIX,adsdk.vivo.com.cn
+  - DOMAIN-SUFFIX,behavior.vivo.com.cn
+
+  # 电视盒子广告
+  - DOMAIN-SUFFIX,ad.hpplay.cn
+  - DOMAIN-SUFFIX,adeng.hpplay.cn
