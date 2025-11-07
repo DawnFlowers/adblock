@@ -1,0 +1,40 @@
+payload:
+  # Unity Ads
+  - DOMAIN-SUFFIX,unityads.unity3d.com
+  - DOMAIN-SUFFIX,config.unityads.unity3d.com
+
+  # AppLovin / MAX
+  - DOMAIN-SUFFIX,applovin.com
+  - DOMAIN-SUFFIX,dc.applovin.com
+  - DOMAIN-SUFFIX,ads.applovin.com
+
+  # IronSource
+  - DOMAIN-SUFFIX,ironSource.mobi
+  - DOMAIN-SUFFIX,supersonicads.com
+  - DOMAIN-SUFFIX,mobilecore.com
+
+  # Vungle
+  - DOMAIN-SUFFIX,vungle.com
+  - DOMAIN-SUFFIX,ads.vungle.com
+
+  # Pangle（穿山甲）
+  - DOMAIN-SUFFIX,pangolin.snssdk.com
+  - DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao.com
+
+  # Chartboost
+  - DOMAIN-SUFFIX,chartboost.com
+
+  # Tapjoy
+  - DOMAIN-SUFFIX,tapjoy.com
+
+  # MoPub（Twitter 已关闭，但仍有遗留）
+  - DOMAIN-SUFFIX,mopub.com
+
+  # TalkingData
+  - DOMAIN-SUFFIX,talkingdata.com
+  - DOMAIN-SUFFIX,appclick.talkingdata.net
+
+  # YouAppi / Fyber / Liftoff
+  - DOMAIN-SUFFIX,youappi.com
+  - DOMAIN-SUFFIX,fiksu.com
+  - DOMAIN-SUFFIX,fusepowered.com
