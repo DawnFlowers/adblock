@@ -1,0 +1,38 @@
+payload:
+  # Google Analytics
+  - DOMAIN-SUFFIX,google-analytics.com
+  - DOMAIN-SUFFIX,analytics.google.com
+
+  # Firebase Analytics
+  - DOMAIN-SUFFIX,app-measurement.com
+
+  # 友盟 Umeng
+  - DOMAIN-SUFFIX,umeng.com
+  - DOMAIN-SUFFIX,umengcloud.com
+  - DOMAIN-SUFFIX,ulogs.umeng.com
+  - DOMAIN-SUFFIX,errlog.umeng.com
+
+  # 腾讯 MTA 统计
+  - DOMAIN-SUFFIX,pingma.qq.com
+  - DOMAIN-SUFFIX,mta.qq.com
+
+  # 字节跳动统计
+  - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,log.byteoversea.com
+
+  # 百度统计
+  - DOMAIN-SUFFIX,hm.baidu.com
+  - DOMAIN-SUFFIX,tongji.baidu.com
+
+  # 小红书 / 美团 / 快手（埋点）
+  - DOMAIN-SUFFIX,tobsnssdk.com
+  - DOMAIN-SUFFIX,tracking.e.kuaishou.com
+
+  # Mixpanel
+  - DOMAIN-SUFFIX,mixpanel.com
+
+  # Sentry
+  - DOMAIN-SUFFIX,sentry.io
+
+  # 新榜 / GrowingIO
+  - DOMAIN-SUFFIX,growingio.com
